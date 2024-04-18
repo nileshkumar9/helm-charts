@@ -3,12 +3,12 @@ entries:
   hello:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-18T15:48:00.090547184+05:30"
+    created: "2024-04-18T15:56:12.116357738+05:30"
     description: A Helm chart for Kubernetes
-    digest: d924a87a818b5c0e09078921524ebe170aa35e52812853a0403217fdca093468
+    digest: c22dc36d6abff7125da4f4995e7908532f1e584ab094f7eb7df8977d7e1a36b1
     name: hello
     type: application
     urls:
-    - https://nilesh35apiit.github.io/helm-charts/hello-0.1.0.tgz
+    - https://nileshkumar9.github.io/helm-charts/hello-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-18T15:48:00.089829889+05:30"
+generated: "2024-04-18T15:56:12.115631121+05:30"
